@@ -1,0 +1,2 @@
+opros closed is_anonymous: 1
+vopros closed is_anonymous: 0
